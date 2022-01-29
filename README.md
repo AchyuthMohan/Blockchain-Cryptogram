@@ -1,8 +1,8 @@
-## ```"Decentralized Photo Social Media."```
+#Decentralized Social Media web app using Ethereum Blockchain.
 
-![Video URL](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
 
-[Tutorial URL](https://www.youtube.com/watch?v=8rhueOcTu8k)
+ ## 🔧 Project Diagram:
+![Project Diagram]() 
+#Steps To run the project:
 
-<!-- ## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/e7fa5d05ef7806419b4897ecc668a045.png) -->
+##1.git cloen
