@@ -13,3 +13,12 @@ git checkout master
 npm install
 npm start
 ```
+## Contracts Deployment settings:
+1. Create an account in remix.com.
+2. Create new project and inside contracts folder add a new solidity file named contracts.sol.
+3. Inside contracts file paste the contracts.sol file contents from our projects.
+4. Make the settings into web 3 mode and compile.
+5. Next connect the local metamask account with remix in Rinkeby Ethereum mode.
+6. Deploy the project and paste the generated address into our networks section in package-lock.json file.
+
+
