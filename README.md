@@ -1,4 +1,4 @@
-#Decentralized Social Media web app using Ethereum Blockchain.
+# Decentralized Social Media web app using Ethereum Blockchain.
 
 
  ## 🔧 Project Diagram:
