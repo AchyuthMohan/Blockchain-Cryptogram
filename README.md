@@ -2,7 +2,7 @@
 
 
  ## 🔧 Project Diagram:
-![Project Diagram]() 
-#Steps To run the project:
+![Project Diagram](https://github.com/AchyuthMohan/Blockchain-decentragram/blob/master/public/images/Screenshot%20(24).png) 
+# Steps To run the project:
 
-##1.git cloen
+## 1.git clon
