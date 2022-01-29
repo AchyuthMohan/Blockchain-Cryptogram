@@ -5,7 +5,7 @@ class Main extends Component {
 
   render() {
     return (
-      <div className="container-fluid mt-5">
+      <div style={{ backgroundColor:'#B2BEB5'}} className="container-fluid mt-5">
         <div className="row">
           <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '500px' }}>
             <div className="content mr-auto ml-auto">
