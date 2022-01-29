@@ -1,7 +1,7 @@
 # Decentralized Social Media web app using Ethereum Blockchain.
 
 ## Team Details
-Team Name : <b>TECH MINDS</b>
+Team Name : <b>TECH MINDS</b> id: 72a0c21c36
 
 ## Project Description
 A completely decentralized social media website that enables users to interact with their friends and relatives without compromising their privacy and personal info. It has all the functionalities of a traditional social media app like user profiles, friends, feed, posts, chat, etc. All the data including image files will be stored in a secure decentralized network(IPFS) and no entity ( government or private) has any control over it, thus giving the users total assurance of their privacy.
