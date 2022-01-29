@@ -1,8 +1,8 @@
 {
-  "name": "decentragram",
+  "name": "Cryptogram",
   "version": "0.1.0",
   "description": "Decentralized Social Media",
-  "author": "Dapp University",
+  "author": "Tech Minds",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
