@@ -1,5 +1,9 @@
 # Decentralized Social Media web app using Ethereum Blockchain.
 
+## Team Details
+Team Name : <b>TECH MINDS</b>
+<br>
+Team Members : Achyuth Mohan , Jagannath E Shahi , Jaison Dennis , Adithya Ajith
 ## Project Description
 A completely decentralized social media website that enables users to interact with their friends and relatives without compromising their privacy and personal info. It has all the functionalities of a traditional social media app like user profiles, friends, feed, posts, chat, etc. All the data including image files will be stored in a secure decentralized network(IPFS) and no entity ( government or private) has any control over it, thus giving the users total assurance of their privacy.
 But due to lack of time we were only able to do upto the stage where we can add photos in ethereum blockchain with a user defined description.
