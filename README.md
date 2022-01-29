@@ -21,5 +21,5 @@ npm start
 5. Next connect the local metamask account with remix in Rinkeby Ethereum mode.
 6. Deploy the project and paste the generated address into our networks section in package-lock.json file.
 
-# Technologies used:
+## Technologies used:
  React js for Front-End, Web3 js, npm truffle, solidity for contracts scripting and Ethereum blockchain.
